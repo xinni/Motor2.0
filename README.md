@@ -1,6 +1,6 @@
 # Motor2.0
 
-##PIN define
+## PIN define
 4 - PUL
 5 - DIR
 8 - 竖直方向限位开关
@@ -8,7 +8,7 @@
 10 - 滑轨限位开关
 11 - 灯箱继电器
 
-##Order define
+## Order define
 lighton - 打开灯箱
 lightoff - 关闭灯箱
 initial - 初始化相机位置
